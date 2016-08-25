@@ -1,0 +1,97 @@
+body {
+	font-family: 'Bree Serif', serif;
+	background-image: url("../images/stranger-words.png");
+	background-repeat: round; 
+}
+
+.displayImg {
+	height: 200px;
+	width: 200px;
+	border: 1px solid #000000;
+	margin: auto;
+}
+
+.info {
+	font-size: 16px;
+	color: wheat;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+h1 {
+	font-size: 85px;
+	color: slategrey;
+	visibility: hidden;
+}
+
+h3 {
+	font-size: 40px;
+	color: red;
+	margin-top: -30px;
+	margin-bottom: 40px;
+	transform: rotate(180deg);
+	visibility: hidden;
+}
+
+h4 {
+	font-size: 18px;
+	color: wheat;
+}
+
+.loud {
+	font-size: 18px;
+	color: wheat;
+	display: inline-block;
+	padding: 7px 15px 5px 5px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.loud1 {
+	font-size: 22px;
+	color: crimson;
+	margin-bottom: 20px;
+}
+
+.current {
+	font-size: 36px;
+	margin-bottom: 20px;
+	color: wheat;
+}
+
+.guesses {
+	font-size: 22px;
+	color: crimson;
+	margin-bottom: 20px;
+}
+
+.box {
+	font-size: 18px;
+	color: wheat;
+	text-decoration: underline;
+	display: inline-block;
+	padding: 5px;
+	margin-bottom: 10px;
+	
+}
+
+.box1 {
+	font-size: 18px;
+	color: wheat;
+	text-decoration: underline;
+	display: inline-block;
+	padding: 5px 7px 5px 3px;
+	margin-bottom: 10px;
+	
+}
+
+.message {
+	font-size: 18px;
+	color: red;
+}
